@@ -1,0 +1,11 @@
+---
+firstname: John
+lastname: Doe
+age: 33
+education:
+  - highschool:
+    - name: ABC High
+      GPA: 3.45
+    college:
+    - name: DEF University
+      GPA: 3.78

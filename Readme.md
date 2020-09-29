@@ -1,0 +1,2 @@
+# Coding Practice
+Messy exercise codes of either concept or implementation including but not limited to various python packages, programming paradigms, data structure implementation, algorithm implementation with simple examples (e.g. array concatenation, YAML basics, factory class, image to gif, C++ vector basics, etc.)

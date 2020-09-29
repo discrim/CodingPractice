@@ -1,0 +1,198 @@
+504 Class
+504 HW
+504 HW09
+504 Pres
+504 Project
+598
+598 Class
+598 Exam
+598 HW
+598 HW11
+598 HW12
+598 Issue
+598 Record
+598 Study
+
+?
+
+AirBnB Review
+
+Airport
+
+Algo Meeting
+Algorithms
+
+Apply for jobs
+Job
+
+Aron's Car
+
+Bank
+
+Blender
+Blender Call
+
+Breafast
+Breakfast
+Lunch
+Dinner
+
+Bug
+
+Call
+
+Chat
+
+Class Search
+
+Clean
+
+Course
+
+Date
+
+Desk Setting
+
+Doo
+Doo Call
+Doo Plan
+Doo Prep
+Doo Trip Plan
+
+Drink
+
+Drive
+
+Errand
+
+Etc.
+
+Evaluation
+
+Excel
+
+Fan
+
+Friend
+Friends
+
+Game
+
+Git
+GitHub
+
+Google Fi
+
+Grocery
+
+Haircut
+
+Help
+
+Honor Code
+
+Hotel
+
+House Fix
+
+Housing
+
+Instagram
+
+Internet Plan
+
+Kitchen
+
+LGE Network
+
+LaTeX
+
+Laundry
+
+Ledger
+
+Linear Algebra
+
+MDP
+MDP (Git)
+MDP Feedback
+MDP Meeting
+
+Maintenance
+
+Meal Price Calc
+
+Modem
+
+Move
+
+Movie
+
+Out
+
+Package
+Package Open
+Package Return
+
+Packing
+
+Papyrus
+
+Parasite
+in beef
+
+Parents
+Parents Call
+Parents Msg
+
+Phone
+
+Plumbing
+
+Rest
+Sleep
+
+Resume
+
+Ride
+
+SK회의
+
+Sewing
+
+Shopping
+
+Shower
+
+Snack
+
+Swim
+
+Tax
+
+Tea
+
+Uber Eats
+
+Visavis
+
+Walk
+
+Web
+
+Workout
+Workout & Sh
+
+Yanny Laurel
+
+YouTube
+
+Zipcar Issue
+
+iPad
+
+동문회
+
+마늘심기
+
+유학기록
