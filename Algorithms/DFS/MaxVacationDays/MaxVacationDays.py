@@ -64,13 +64,18 @@ class Solution:
         # Each cell represents the maximum vacation days
         # when starting in ith row (city)
         # and starting at jth col (week).
+        # Initialize with any value that is not a valid number of days.
+        # I chose -1.
         memo = [[-1 for jj in range(len(days[0]))] for ii in range(len(days))]
         return self.dfs(memo, flights, days, 0, 0)
     
     def dfs(self, memo, flights, days, curcity, weeknum):
+        # Already checked the last week
+        # and exceeded the total period
         if weeknum == len(days[0]):
             return 0
         
+        #
         if memo[curcity][weeknum] != -1:
             return memo[curcity][weeknum]
         
